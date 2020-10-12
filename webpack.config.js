@@ -7,7 +7,11 @@ module.exports = {
     mode: 'development',
     entry: path.resolve(__dirname, 'src/index.js'),
     devtool: 'inline-source-map',
-    plugins: [new CleanWebpackPlugin()],
+    devServer: {
+        contentBase: './dist',
+        hot: true,
+    },
+    plugins: [new CleanWebpackPlugin(), new HtmlWebpackPlugin()],
     output: {
         filename: '[name].[contenthash].bundle.js',
         path: path.resolve(__dirname, 'dist'),

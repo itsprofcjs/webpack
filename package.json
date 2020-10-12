@@ -7,8 +7,9 @@
     "license": "ISC",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "webpack",
-        "build": "webpack --config webpack.prod.js",
+        "start": "webpack serve",
+        "build": "webpack",
+        "watch": "webpack --watch",
         "update": "ncu -u --timeout 1800000 && npm i"
     },
     "devDependencies": {
