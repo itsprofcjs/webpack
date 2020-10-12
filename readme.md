@@ -1,4 +1,4 @@
-### This is boilerplate repo for webpack for
+### This is boilerplate repo with webpack for
 
-- [ ] JavaScript
-- [ ] React
+-   [x] JavaScript
+-   [ ] React
