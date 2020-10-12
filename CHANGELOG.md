@@ -1,3 +1,11 @@
+# [2.2.0](https://github.com/itsprofcjs/webpack/compare/v2.1.0...v2.2.0) (2020-10-12)
+
+
+### Features
+
+* **html:** added html template ([05f4339](https://github.com/itsprofcjs/webpack/commit/05f43396ebf9f680c4fa947e9f197549354dc84b))
+* **sw:** service worker config ([3cebf3a](https://github.com/itsprofcjs/webpack/commit/3cebf3acdde660800b71797d238ac62155c590c1))
+
 # [2.1.0](https://github.com/itsprofcjs/webpack/compare/v2.0.0...v2.1.0) (2020-10-12)
 
 
