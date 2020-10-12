@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/itsprofcjs/webpack/compare/v2.0.0...v2.1.0) (2020-10-12)
+
+
+### Features
+
+* **reload:** live reloading code setup ([06985ce](https://github.com/itsprofcjs/webpack/commit/06985cefc0dd7694d9c4e515c905fe6575eaa1f1))
+
 # [2.0.0](https://github.com/itsprofcjs/webpack/compare/v1.0.0...v2.0.0) (2020-10-12)
 
 
